@@ -73,7 +73,7 @@ class Kwara extends Component {
               fillOpacity="1"
             />
             <desc style={{ "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)" }}>
-              Created by Uchendu Precious. @allindeveloper
+              Created by Enoch and Uchendu Precious. @allindeveloper
             </desc>
             <defs style={{ "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)" }} />
             <text
